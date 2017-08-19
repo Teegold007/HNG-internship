@@ -3,7 +3,6 @@
 <html>
  <head>
   <title>MY SIMPLE PHP SCRIPT</title>
-  
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
